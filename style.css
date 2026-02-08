@@ -36,6 +36,8 @@ body{
     margin-right: 16px;
     font-size: 18px;
     box-shadow: 0px -5px 10px 0px rgba(0, 0, 0, 0.5);
+    width: 60%;
+    max-width: 370px;
 }
 .search input:hover{
   box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
